@@ -14,12 +14,12 @@ function Nav(){
           {
             key: 'part-1',
             href: '#part-1',
-            title: 'Part 1',
+            title: 'Phim đang chiếu',
           },
           {
             key: 'part-2',
             href: '#part-2',
-            title: 'Part 2',
+            title: 'Phim sắp chiếu',
           },
           {
             key: 'part-3',
