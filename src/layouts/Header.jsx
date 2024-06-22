@@ -1,5 +1,6 @@
 
 import '../main.scss'
+import { UserOutlined  } from '@ant-design/icons';
 function Header() {
     const handleLogin = () => {
         // Xử lý hành động khi người dùng nhấp vào nút đăng nhập
@@ -19,7 +20,8 @@ function Header() {
                     <img src="../../src/assets/logo.jpg" alt="Logo" />
                 </div>
                 <div className="header__login">
-                    <button onClick={handleLogin}>Đăng nhập</button>
+                    <button onClick={handleLogin}><UserOutlined /> Đăng nhập</button>
+                    
                 </div>
             </header>
 
