@@ -5,7 +5,7 @@ function Banner() {
 
     return (
         <>
-            <div >
+            
                 {/* <!-- Carousel --> */}
                 <div id="demo" className="carousel slide" data-bs-ride="carousel">
 
@@ -37,7 +37,7 @@ function Banner() {
                         <span className="carousel-control-next-icon"></span>
                     </button>
                 </div>
-            </div>
+            
 
 
         </>

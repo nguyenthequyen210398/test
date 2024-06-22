@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     // box-sizing: border-box;
+    
 }
 
 // .header {
@@ -52,7 +53,7 @@
     left: 0;
     width: 100%; /* Chiều rộng header chiếm toàn bộ phần width của trang */
     height: 100px;
-    background-color: #333;
+    background-color: white;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -81,10 +82,12 @@
   }
 }
 
-.banner{
-    .d-block {
-        height: 80px !important
-    }
+body {
+  margin-top: 100px;
+
+  .d-block{
+    padding-top: 10px;
+  }
 }
 
 
