@@ -38,7 +38,7 @@ function Nav(){
           textAlign: 'center',
           background: 'rgba(0,255,0,0.02)',
         }}
-      />
+      ><MovieIsShowing/><div/>
       <div
         id="part-2"
         style={{
