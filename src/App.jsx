@@ -1,5 +1,6 @@
 
 
+import Admin from './pages/main/Admin';
 import HomePage from './pages/main/HomePage';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       {/* <Footer /> */}
       {/* <Header /> */}
       <HomePage />
+      {/* <Admin/> */}
 
     </>
   );
