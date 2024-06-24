@@ -3,13 +3,8 @@ function Nav(){
 
     return (
         <>
-        <div
-      style={{
-        padding: '20px',
-      }}
-    >
-      <Anchor
-        direction="horizontal"
+        <div style={{padding: '20px'}}>
+      <Anchor direction="horizontal"
         items={[
           {
             key: 'part-1',
@@ -29,6 +24,7 @@ function Nav(){
         ]}
       />
     </div>
+            
     <div>
       <div
         id="part-1"
