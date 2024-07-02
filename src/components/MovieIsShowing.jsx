@@ -1,8 +1,8 @@
 
-funtion MovieIsShowing (){
+function MovieIsShowing (){
 
     return (
-        
+       <></> 
     )
 } 
 export default MovieIsShowing;

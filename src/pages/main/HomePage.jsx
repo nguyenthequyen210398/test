@@ -2,7 +2,7 @@
 import '../../main.scss'
 import Header from '../../layouts/Header';
 import Banner from '../../layouts/Banner';
-import Nav from '../../components/Nav';
+// import Nav from '../../components/Nav';
 import Footer from '../../layouts/Footer';
 
 function HomePage() {
@@ -10,7 +10,7 @@ function HomePage() {
         <>
             <Header />
             <Banner />
-            <Nav/>
+           
             <Footer/>
         </>
     )

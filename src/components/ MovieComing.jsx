@@ -1,8 +1,8 @@
 
-funtion MovieComing (){
+function MovieComing (){
 
     return (
-        
+        <></>
     )
 } 
 export default MovieComing;
